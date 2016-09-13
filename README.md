@@ -2,7 +2,7 @@
 Project 1 for ENEE633 Statistical Pattern Recognition course at UMD
 
 This project implements the following classifiers for face recognition.
-- ML estimation with Gaussian assumption followed by Bayes rule
+- Maximum likelihood estimation with Gaussian assumption followed by Bayes rule
 - Nearest neighbor (NN) rule
 - PCA followed by Bayes classifier and NN rule
 - LDA followed by Bayes classifier and NN rule
