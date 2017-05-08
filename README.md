@@ -1,4 +1,4 @@
-# ENEE633---Face-recognization
+# ENEE633---Face-recognition
 Project 1 for ENEE633 Statistical Pattern Recognition course at UMD
 
 This project implements the following classifiers for face recognition.
